@@ -1,0 +1,1 @@
+<!-- {{ ($route == 'admin.dashboard')? 'active':''}}    {{route('admin.dashboard')}}       -->
